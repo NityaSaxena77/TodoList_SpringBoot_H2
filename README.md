@@ -2,6 +2,9 @@
 
 REST APIs are implemented using Spring Boot and in memory database H2 to create a todo list. The functionalities include view all tasks, add, update, delete any tasks into the system.
 
+# Requirements
+The application requires JDK 1.8, maven, H2 to be installed on the system.
+The username and password for the database is h2user and h2passwd respectively. This can be changed in the applications.properties file. 
 
 # Test using Postman
 
